@@ -6,14 +6,13 @@ Test it live in [Wokwi](https://wokwi.com/)!
 
 ## 📦 Structure
 
+
+game-demo.png
+game-demo-full.png
+components/   # your game_lib, display, joystick, etc.
+main/         # app_main.c
+CMakeLists.txt
 ```
-.
-├── assets/
-│   ├── game-demo.png
-│   └── game-demo-full.png
-├── components/   # your game_lib, display, joystick, etc.
-├── main/         # app_main.c
-└── CMakeLists.txt
 ```
 
 ## ⚙️ Prerequisites
